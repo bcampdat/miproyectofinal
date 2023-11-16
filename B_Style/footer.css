@@ -1,0 +1,19 @@
+.footer {
+    display: grid;
+    background-color: #1e1f26;
+    justify-content: right;    
+    color: white;
+    opacity: 0.5;
+    font-size: 10px;
+    justify-items: center;
+}
+
+.terms a {
+    text-decoration: none;
+    color: white;
+}
+
+.spacer55 {
+    height: 55px;
+    width: 100%;
+}
